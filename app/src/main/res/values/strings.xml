@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">DuBaoThoiTiet</string>
+    <string-array name="thanhpho">
+        <item>Bắc Giang</item>
+        <item>Bắc Kạn</item>
+        <item>Bạc Liêu</item>
+        <item>Bắc Ninh</item>
+        <item>Bến Tre</item>
+        <item>Biên Hòa</item>
+        <item>Bỉm Sơn</item>
+        <item>Buôn Ma Thuột</item>
+        <item>Cà Mau</item>
+        <item>Cẩm Phả</item>
+        <item>Cam Ranh</item>
+        <item>Cần Đước</item>
+        <item>Cần Giờ</item>
+        <item>Cần Thơ</item>
+        <item>Cao Bằng</item>
+        <item>Cao Lãnh</item>
+        <item>Châu Đốc</item>
+        <item>Củ Chi</item>
+        <item>Đà Lạt</item>
+        <item>Điện Biên Phủ</item>
+        <item>Đông Hà</item>
+        <item>Đồng Hới</item>
+        <item>Đồng Xoài</item>
+        <item>Hà Đông</item>
+        <item>Hà Giang</item>
+        <item>Hạ Long</item>
+        <item>Hà Nội</item>
+        <item>Hà Tiên</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hải Phòng</item>
+        <item>Hòa Bình</item>
+        <item>Hội An</item>
+        <item>Huế</item>
+        <item>Hưng Yên</item>
+        <item>Kon Tum</item>
+        <item>La Gi</item>
+        <item>Lạng Sơn</item>
+        <item>Lào Cai</item>
+        <item>Long Xuyên</item>
+        <item>Mỹ Tho</item>
+        <item>Nam Định</item>
+        <item>Nha Trang</item>
+        <item>Ninh Bình</item>
+        <item>Phan Rang - Tháp Chàm</item>
+        <item>Phan Thiết</item>
+        <item>Phú Khương</item>
+        <item>Phủ Lý</item>
+        <item>Pleiku</item>
+        <item>Quảng Ngãi</item>
+        <item>Quy Nhơn</item>
+        <item>Rạch Giá</item>
+        <item>Sa Đéc</item>
+        <item>Sa Pa</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Sơn Tây</item>
+        <item>Sông Cầu</item>
+        <item>Tam Kỳ</item>
+        <item>Tân An</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thành phố Hồ Chí Minh</item>
+        <item>Thủ Dầu Một</item>
+        <item>Trà Vinh</item>
+        <item>Tuy Hòa</item>
+        <item>Tuyên Quang</item>
+        <item>Uông Bí</item>
+        <item>Việt Trì</item>
+        <item>Vinh</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Yên</item>
+        <item>Vũng Tàu</item>
+        <item>Yên Bái</item>
+    </string-array>
+</resources>
